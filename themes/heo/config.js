@@ -17,12 +17,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_1: '编程',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_3: 'BLOG.ETOCS.TK',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '科技造福人民！',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://blog.etocs.tk',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
